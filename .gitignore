@@ -1,0 +1,4 @@
+# Clave de API y datos locales
+config.local.json
+*.key
+datos/
